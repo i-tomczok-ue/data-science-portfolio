@@ -2,9 +2,9 @@
 
 This repository is meant to gather projects I work on while studying data-related subjects. 
 As an aspiring Data Analyst I currently focus on:
-* Power Bi
-* SQL
-* Python
+* [Power Bi](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PowerBI)
+* [Python](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PythonJupyterNotebook)
+* [SQL](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/SQL)
 
 Please note that all content is done entirely for self-learning purposes.
 

@@ -24,7 +24,8 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
   ** Transform a query
   ** Design a star schema that contains facts and dimensions
   ** Identify and create appropriate keys for relationships
-**3. Data Modeling**
+  
+**2. Data Modeling**
 * Design and implement a data model
   ** Configure table and column properties
   ** Define a relationship's cardinality and cross-filter direction
@@ -38,7 +39,8 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
   ** Improve performance by identifying and removing unnecessary rows and columns
   ** Improve performance by choosing optimal data types
   ** Improve performance by summarizing data
-**4. Data Analysis and Visualization**
+  
+**3. Data Analysis and Visualization**
 * Create reports
   ** Identify and implement appropriate visualizations
   ** Format and configure visualizations
@@ -54,7 +56,8 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
   ** Design reports for mobile devices
 * Identify patterns and trends
   ** Use AI visuals
-**5. Data Deployment and Item Maintainence - NONE YET**
+  
+**4. Data Deployment and Item Maintainence - NONE YET**
 
 ## Credits
 MS Learn platform <3 --- The **Microsoft Power BI Data Analyst course** truly helped me elevate my Power BI skills to the next level.

@@ -68,5 +68,6 @@ Identify patterns and trends
 **4. Data Deployment and Item Maintainence - NONE YET**
 
 ## Credits
-MS Learn platform <3 --- The **Microsoft Power BI Data Analyst course** truly helped me elevate my Power BI skills to the next level.
+MS Learn platform <3 --- The [Microsoft Power BI Data Analyst course](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification#certification-prepare-for-the-exam) truly helped me elevate my Power BI skills to the next level.
+
 Special thanks to hackernoon.com for gathering multiple [datasets](https://hackernoon.com/13-best-datasets-for-power-bi-practice) in one place for Power BI practice. 

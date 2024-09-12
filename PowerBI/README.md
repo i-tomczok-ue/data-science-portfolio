@@ -10,7 +10,7 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
 *Tools: PowerBi, PowerQuery, DAX*
 
 ## Skills Covered in reference to [PL-300 Study Guide](https://learn.microsoft.com/pl-pl/credentials/certifications/resources/study-guides/pl-300)
-1. Data Preparation
+**1. Data Preparation**
 * Get data from data sources
   ** Identify and connect to a data source
   ** Select a shared semantic model, or create a local data model
@@ -24,7 +24,7 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
   ** Transform a query
   ** Design a star schema that contains facts and dimensions
   ** Identify and create appropriate keys for relationships
-3. Data Modeling
+**3. Data Modeling**
 * Design and implement a data model
   ** Configure table and column properties
   ** Define a relationship's cardinality and cross-filter direction
@@ -38,7 +38,7 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
   ** Improve performance by identifying and removing unnecessary rows and columns
   ** Improve performance by choosing optimal data types
   ** Improve performance by summarizing data
-4. Data Analysis and Visualization
+**4. Data Analysis and Visualization**
 * Create reports
   ** Identify and implement appropriate visualizations
   ** Format and configure visualizations
@@ -54,7 +54,7 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
   ** Design reports for mobile devices
 * Identify patterns and trends
   ** Use AI visuals
-5. Data Deployment and Item Maintainence - NONE YET
+**5. Data Deployment and Item Maintainence - NONE YET**
 
 ## Credits
 MS Learn platform <3 --- The **Microsoft Power BI Data Analyst course** truly helped me elevate my Power BI skills to the next level.

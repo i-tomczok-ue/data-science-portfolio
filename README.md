@@ -19,7 +19,7 @@ The report is presented in the form of four dashboards: Overview, Revenue, Tops 
 
 *Tools: PowerBi, PowerQuery, DAX*
 
-### [Project 2 - Customer Report with Adventure Works DW 2019]([https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PowerBI/01_GlobalSuperstore](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PowerBI/02_AWDW2019))
+### [Project 2 - Customer Report with Adventure Works DW 2019](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PowerBI/02_AWDW2019))
 The report is presented in the form of two dashboards: Customer Profile and Customer Geodata.
 
 *Tools: PowerBi, PowerQuery, DAX*

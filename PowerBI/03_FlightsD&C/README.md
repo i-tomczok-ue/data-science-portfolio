@@ -5,8 +5,8 @@ One of many projects I am doing while preparing for PL-300 Microsoft exam.
 The report is presented in the form of four dashboards.
 
 **1. Trends**
-Monthly and weekly trends of:
 
+Monthly and weekly trends of:
 * Flights - Total and Delayed
 * Delayed Flights - Departure and Arrival Delays
 * Cancelled Flights

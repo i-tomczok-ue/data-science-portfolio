@@ -24,6 +24,11 @@ The report is presented in the form of two dashboards: Customer Profile and Cust
 
 *Tools: PowerBi, PowerQuery, DAX*
 
+### [Project 3 - 2015 Flight Delays and Cancellations](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PowerBI/03_FlightsD%26C)
+The report is presented in the form of two dashboards: Trends, Airlines, Delays and Cancellations.
+
+*Tools: PowerBi, PowerQuery, DAX*
+
 ## [Python Jupyter Notebook Section](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PythonJupyterNotebook)
 ### [Project 1 - Portfolio Optimization and Stock Price Prediction](https://github.com/i-tomczok-ue/data-science-portfolio/tree/main/PythonJupyterNotebook/01_PortfolioOptimizationAndLSTM)
 This project underscores the significance of data-driven decision-making in investment strategies, leveraging historical data and mathematical models. It's an exploration of the code's functionality, serving as a tool for hypothetical investors and providing suggestions upon which they can reconsider their investment strategy. Performed on S&P500 stock data.
